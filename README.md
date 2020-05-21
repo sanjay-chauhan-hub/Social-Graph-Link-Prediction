@@ -11,9 +11,4 @@ Data contains two columns: source and destination edge pairs in the directed gra
 - No low-latency requirements.
 - Predciting the probability of a link is useful so as to recommend the highest probability links to a user.
 - We got to suggest connnections which are most likley to be correct and we should try and not miss out any connnections.
-## Performance metric for supervised learning:
-1. Both precision and recall are important, hence F1 score is good choice
-2. Confusion matrix
-3. Accuracy can also be checked
-## How to run the file
-First download the data from Data Source then run the file: FB_FriendRecommendation.ipynb.
+
